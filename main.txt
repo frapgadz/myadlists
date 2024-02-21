@@ -4,3 +4,4 @@ https://blocklistproject.github.io/Lists/tracking.txt
 https://blocklistproject.github.io/Lists/malware.txt
 https://blocklistproject.github.io/Lists/ads.txt
 https://small.oisd.nl/
+https://adobe.isdumb.one/pihole
