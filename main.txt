@@ -5,3 +5,4 @@ https://blocklistproject.github.io/Lists/malware.txt
 https://blocklistproject.github.io/Lists/ads.txt
 https://small.oisd.nl/
 https://a.dove.isdumb.one/list.txt
+https://raw.githubusercontent.com/NChaves/pi-hole/refs/heads/main/adBlockListSmartTV_ABP.txt
